@@ -9,7 +9,7 @@ import org.json.JSONObject;
 public class ApiService {
 
     // Reemplaza este valor con tu API key
-    private static final String API_KEY = "da9f15cb8804f51d7c3704ce";
+    private static final String API_KEY = "AQUÍ_TU_API_KEY";
 
     public double obtenerTasaCambio(String from, String to) {
         try {
