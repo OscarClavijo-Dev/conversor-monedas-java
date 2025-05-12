@@ -42,16 +42,17 @@ src/
 
 git clone https://github.com/tu-usuario/ConversorMonedasJava.git
 cd ConversorMonedasJava
-## Capturas
-2. Abre el proyecto en IntelliJ IDEA (u otro IDE compatible).
 
-3. Asegúrate de tener el archivo json-20240303.jar en tu carpeta raíz y agregado como biblioteca en el proyecto.
+## COmo ejecutarlo en tu equipo local
+1. Abre el proyecto en IntelliJ IDEA (u otro IDE compatible).
 
-4 .Regístrate en Exchangerate-API y obtén tu API Key.
+2. Asegúrate de tener el archivo json-20240303.jar en tu carpeta raíz y agregado como biblioteca en el proyecto.
 
-5. Abre ApiService.java y reemplaza "AQUÍ_TU_API_KEY" por tu clave personal
+3. Regístrate en Exchangerate-API y obtén tu API Key.
 
-6. Ejemplo de uso
+4. Abre ApiService.java y reemplaza "AQUÍ_TU_API_KEY" por tu clave personal
+
+5. Ejemplo de uso o como deberia verse
 
 1. COP a USD
 2. USD a COP
@@ -67,8 +68,6 @@ Resultado: 100000.00 COP equivalen a 25.21 USD
 
 ## Evidencia fotografica del programa
 ![image](https://github.com/user-attachments/assets/b56362ed-e3a5-44fb-b0f8-88ea6d4633fc)
-
-
 
 ##📜 Licencia
 
