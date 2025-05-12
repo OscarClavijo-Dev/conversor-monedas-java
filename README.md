@@ -27,13 +27,13 @@ Este es un proyecto simple en Java que permite convertir valores entre distintas
 
 ## 📂 Estructura del proyecto
 src/
-└── com.usuario.conversor/
-├── ApiService.java # Conexión y consumo de la API
-├── App.java # Lógica del menú y control principal
-├── Conversor.java # Lógica de conversión
-├── Menu.java # Opciones disponibles en pantalla
-├── Moneda.java # Modelo de moneda
-└── Main.java # Método main()
+- com.usuario.conversor/
+- ApiService.java # Conexión y consumo de la API
+- App.java # Lógica del menú y control principal
+- Conversor.java # Lógica de conversión
+- Menu.java # Opciones disponibles en pantalla
+- Moneda.java # Modelo de moneda
+- Main.java # Método main()
 
 
 ## ⚙️ Configuración del entorno
