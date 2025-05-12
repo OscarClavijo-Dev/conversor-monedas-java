@@ -1,7 +1,3 @@
-# conversor-monedas-java
-Conversor de monedas usando Java y API de tipos de cambio
-
-
 # 💱 Conversor de Monedas en Java
 
 Este es un proyecto simple en Java que permite convertir valores entre distintas monedas utilizando la [Exchangerate-API](https://www.exchangerate-api.com/). Se ejecuta en la consola y está orientado a reforzar conceptos de programación orientada a objetos (POO), consumo de APIs y manejo de datos JSON.
@@ -68,6 +64,12 @@ Resultado: 100000.00 COP equivalen a 25.21 USD
 
 ## Evidencia fotografica del programa
 ![image](https://github.com/user-attachments/assets/b56362ed-e3a5-44fb-b0f8-88ea6d4633fc)
+
+## Demo
+
+![Demostración del conversor](![idea64_O64xON97C4](https://github.com/user-attachments/assets/48891fad-fe49-49da-b8a2-dba06882047f)
+)
+
 
 ##📜 Licencia
 
