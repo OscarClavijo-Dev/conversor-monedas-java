@@ -48,19 +48,6 @@ cd ConversorMonedasJava
 
 4. Abre ApiService.java y reemplaza "AQUÍ_TU_API_KEY" por tu clave personal
 
-5. Ejemplo de uso o como deberia verse
-
-1. COP a USD
-2. USD a COP
-3. COP a EUR
-4. EUR a COP
-5. Wones a COP
-6. COP a Wones
-7. Salir
-
-Ingresa una opción válida: 1
-Ingresa el valor que deseas convertir: 100000
-Resultado: 100000.00 COP equivalen a 25.21 USD
 
 ## Evidencia fotografica del programa
 ![image](https://github.com/user-attachments/assets/b56362ed-e3a5-44fb-b0f8-88ea6d4633fc)
@@ -71,6 +58,6 @@ Resultado: 100000.00 COP equivalen a 25.21 USD
 )
 
 
-##📜 Licencia
+## 📜 Licencia
 
 Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
